@@ -6,8 +6,8 @@ def fizzbuzz(num)
    elsif num % 5 == 0
      return "Buzz"
    elsif num % 3 == 0 && 5 == 0
-      return "FizzBuzz" 
-   else 
+      return "FizzBuzz"
+   else
      return
   end
 end
